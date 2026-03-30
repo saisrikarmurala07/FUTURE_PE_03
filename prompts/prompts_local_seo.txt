@@ -1,0 +1,13 @@
+Optimize the blog for local SEO.
+
+Keyword: {keyword}
+Location: {city}
+
+Tasks:
+
+* Add location-based keywords
+* Suggest local headings
+* Create local CTA
+* Add Google Business references
+
+Make it relevant for local search.
