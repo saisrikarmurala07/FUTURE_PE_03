@@ -1,0 +1,13 @@
+Create an SEO-optimized blog outline.
+
+Keyword: {keyword}
+Business Type: {business_type}
+
+Requirements:
+
+* H1 title (SEO optimized)
+* H2 and H3 headings
+* Include FAQ section
+* Include CTA section
+
+Make it structured and readable.
