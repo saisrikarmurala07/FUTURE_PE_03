@@ -1,0 +1,19 @@
+ai-seo-blog-generator/
+│── README.md
+│── prompts/
+│     ├── keyword_intent.txt
+│     ├── blog_outline.txt
+│     ├── blog_writer.txt
+│     ├── content_cluster.txt
+│     ├── local_seo.txt
+│
+│── outputs/
+│     ├── sample_blog.md
+│
+│── docs/
+│     ├── prompt_logic.md
+│
+│── src/
+│     ├── generator.py
+│
+│── requirements.txt
