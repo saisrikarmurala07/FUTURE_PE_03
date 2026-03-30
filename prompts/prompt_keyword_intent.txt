@@ -1,0 +1,12 @@
+Analyze the keyword below and classify search intent.
+
+Keyword: {keyword}
+
+Tasks:
+
+* Identify intent (Informational / Transactional / Navigational / Commercial)
+* Suggest 5 related keywords
+* Suggest 3 long-tail keywords
+* Identify target audience
+
+Keep output structured.
