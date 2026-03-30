@@ -1,0 +1,14 @@
+Write a long-form SEO blog post.
+
+Keyword: {keyword}
+Outline: {outline}
+
+Guidelines:
+
+* 1000–1500 words
+* Use simple, clear language
+* Include keyword naturally
+* Add examples
+* Add CTA at end
+
+Make it engaging and helpful.
